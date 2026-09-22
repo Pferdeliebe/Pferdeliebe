@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Pferdeliebe. 👋
+<body>
+  <center>
+<h1 align="center">💻️ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 🐴️</h1>
+
+
+### About me:
+- 🔎 I'm interested in python and data science.
+-🌱 I’m currently learning python. 
+- ❤️ I love mathematics, programming and horses.
+
 
 <!--
 **Pferdeliebe/Pferdeliebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
