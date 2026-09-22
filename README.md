@@ -6,7 +6,7 @@
 
 ### About me:
 - 🔎 I'm interested in python and data science.
--🌱 I’m currently learning python. 
+- 🌱 I’m currently learning python. 
 - ❤️ I love mathematics, programming and horses.
 
 
